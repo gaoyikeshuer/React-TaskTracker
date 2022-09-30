@@ -1,0 +1,13 @@
+.task{
+
+    margin: 10px auto;
+    background-color: gainsboro;
+    padding: 5px 10px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.task h3{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
