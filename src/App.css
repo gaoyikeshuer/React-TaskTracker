@@ -1,12 +1,13 @@
 .App {
   max-width: 66vh;
-  margin: 1px auto;
+  margin: 100px auto;
   overflow: auto;
   min-height: 300px;
-  border: 1px solid steelblue;
+ 
   padding: 10px;
   border-radius: 5px;
-  background-color: #313133a4;
+  background-color: whitesmoke;
+  border: 1px solid black;
 
 }
 
