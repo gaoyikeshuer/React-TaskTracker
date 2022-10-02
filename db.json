@@ -1,6 +1,22 @@
 {
-  "tasks": [{"id":1 ,"text":"wang","day":"Oct 1st","reminder":false},
-    
-  {"id":2,"text":"Yike","day":"Nov 1st", "reminder": true}]
-  
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Yike",
+      "day": "Nov 1st",
+      "reminder": true
+    },
+    {
+      "text": "hlep",
+      "day": "ewe",
+      "reminder": true,
+      "id": 2
+    },
+    {
+      "text": "d",
+      "day": "d",
+      "reminder": true,
+      "id": 3
+    }
+  ]
 }
